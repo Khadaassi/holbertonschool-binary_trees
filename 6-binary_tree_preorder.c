@@ -3,6 +3,7 @@
 /**
 * binary_tree_preorder - goes through a binary tree using pre-order traversal
 * parcourt un arbre binaire à l'aide d'un parcours de pré-ordre
+* (Traversée dans l'ordre)
 * @tree: pointer to the root node of the tree to traverse
 * @func: pointer to a function to call for each node
 *
