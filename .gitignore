@@ -1,7 +1,11 @@
+#main.c
+*main.c
+
 # Prerequisites
 *.d
 
 # Object files
+*
 *.o
 *.ko
 *.obj
