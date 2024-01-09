@@ -7,7 +7,7 @@
 * @tree: pointer to the root node of the tree to traverse
 * @func: pointer to a function to call for each node
 *
-* This function traverses a binary tree in pre-order (root, left, right)
+*This function traverses a binary tree in pre-order (root, left, right)
 * and applies a given function to each node.
 * If tree or func is NULL, the function does nothing.
 */
