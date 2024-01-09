@@ -1,4 +1,5 @@
 #main.c
+
 *-main.c
 
 #devcontainer
@@ -7,6 +8,7 @@
 *.d
 
 # Object files
+*
 *.o
 *.ko
 *.obj
