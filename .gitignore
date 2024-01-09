@@ -1,13 +1,9 @@
-#main.c
-#main.c
-
 #devcontainer
 *.json
 # Prerequisites
 *.d
 
 # Object files
-*
 *.o
 *.ko
 *.obj
