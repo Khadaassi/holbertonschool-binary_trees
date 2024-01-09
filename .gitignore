@@ -1,6 +1,9 @@
 #main.c
-*main.c
 
+*-main.c
+
+#devcontainer
+*.json
 # Prerequisites
 *.d
 
