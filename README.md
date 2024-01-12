@@ -1,6 +1,6 @@
 C - Binary Trees for Holberton School Lille. This project was realized with Khadija Aassi.
 
-![Binary Tree]()
+![Binary Tree](https://github.com/Khadaassi/holbertonschool-binary_trees/blob/main/Binary%20Tree.png)
 
 ----------
 
@@ -10,20 +10,30 @@ C - Binary Trees for Holberton School Lille. This project was realized with Khad
 
 ## ➤ Menu:
 
-* [➤ Description]()
-* [➤ Flowchart]()
-* [➤ If you want to use our Simple Shell]()
-  * [Install]()
-  * [Execute]()
-  * [Librairies]()
-* [➤ File Descriptions]()
-* [➤ For compilation]()
-* [➤ Tests]()
-  * [Valgrind]()
-* [➤ Man]()
-* [➤ Requirements]()
+* [➤ Description](https://github.com/Khadaassi/holbertonschool-binary_trees#-description)
+* [➤ Resources](https://github.com/Khadaassi/holbertonschool-binary_trees#-resources)
+* [➤ Requirements](https://github.com/Khadaassi/holbertonschool-binary_trees?tab=readme-ov-file#-requirements)
+* [➤ More Info](https://github.com/Khadaassi/holbertonschool-binary_trees?tab=readme-ov-file#-more-info)
+* [➤ Tasks](https://github.com/Khadaassi/holbertonschool-binary_trees?tab=readme-ov-file#-tasks)
+  * [0. New node](https://github.com/Khadaassi/holbertonschool-binary_trees?tab=readme-ov-file#0-new-node)
+  * [1. Insert left](https://github.com/Khadaassi/holbertonschool-binary_trees?tab=readme-ov-file#1-insert-left)
+  * [0. New node](https://github.com/Khadaassi/holbertonschool-binary_trees?tab=readme-ov-file#2-insert-right)
+  * [2. Insert right]()
+  * [0. New node]()
+  * [0. New node]()
+  * [0. New node]()
+  * [0. New node]()
+  * [0. New node]()
+  * [0. New node]()
+  * [0. New node]()
+  * [0. New node]()
+  * [0. New node]()
+  * [0. New node]()
+  * [0. New node]()
+  * [0. New node]()
+  * [0. New node]()
+  * [0. New node]()
 * [➤ Author]()
-* [➤ License]()
 
 ----------
 
@@ -272,7 +282,7 @@ Repo:
 * GitHub repository: holbertonschool-binary_trees
 * File: 2-binary_tree_insert_right.c
 
-3. Delete
+## 3. Delete
 
 Write a function that deletes an entire binary tree
 
