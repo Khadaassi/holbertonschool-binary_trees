@@ -1,4 +1,4 @@
-C - Binary Trees for Holberton School Lille. This project was realized with Khadija Aassi.
+C - Binary Trees for Holberton School Lille. This project was realized with Amandine Kemp.
 
 ![Binary Tree](https://github.com/Khadaassi/holbertonschool-binary_trees/blob/main/Binary%20Tree.png)
 
@@ -35,7 +35,7 @@ C - Binary Trees for Holberton School Lille. This project was realized with Khad
   * [16. Is perfect](https://github.com/Khadaassi/holbertonschool-binary_trees#16-is-perfect)
   * [17. Sibling](https://github.com/Khadaassi/holbertonschool-binary_trees#17-sibling)
   * [18. Uncle](https://github.com/Khadaassi/holbertonschool-binary_trees#18-uncle)
-* [➤ Author](https://github.com/Khadaassi/holbertonschool-binary_trees#-author)
+* [➤ Authors](https://github.com/Khadaassi/holbertonschool-binary_trees#-authors)
 
 ----------
 
@@ -1239,7 +1239,7 @@ Repo:
 
 ----------
 
-## ➤ Author:
+## ➤ Authors:
 
 - Khadija Aassi [Github](https://github.com/Khadaassi)
 - Amandine KEMP [Github](https://github.com/amandinekemp)
