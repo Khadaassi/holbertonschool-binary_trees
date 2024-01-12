@@ -1,6 +1,6 @@
 C - Binary Trees for Holberton School Lille. This project was realized with Khadija Aassi.
 
-![Binary Tree](https://github.com/Khadaassi/holbertonschool-binary_trees/blob/develop/Binary-Tree-Program-in-C.jpg)
+![Binary Tree]()
 
 ----------
 
@@ -33,101 +33,19 @@ A tree is a hierarchical structure of abstract data, composed of nodes connected
 
 Three types of tree are commonly used:
 
-	* General trees: No restrictions on the number of children per node.
-	* Binary trees: Each node has at most two children.
-	* Binary search trees: A specific organization of values facilitates searching.
+* General trees: No restrictions on the number of children per node.
+* Binary trees: Each node has at most two children.
+* Binary search trees: A specific organization of values facilitates searching.
 
 To traverse a tree (visit all nodes), three methods are used:
 
-	* traversal in order: recursive visit of the left, root and right sub-trees.
-	* Pre-order traversal: Recursive visit of root, left sub-tree, then right sub-tree.
-	* Post-order traversal: Recursive visit of left subtree, right subtree, then root.
+* traversal in order: recursive visit of the left, root and right sub-trees.
+* Pre-order traversal: Recursive visit of root, left sub-tree, then right sub-tree.
+* Post-order traversal: Recursive visit of left subtree, right subtree, then root.
 
 These traversal methods allow you to browse and print node values in an orderly fashion. 
 
 In summary, trees provide a hierarchical structure for organizing data, with specific traversal methods for efficiently exploring nodes.
-
-----------
-
-## ➤ If you want to use:
-
-### ➤ Install:
-To use our binary_trees you can clone this repository:<br>
-
-```git@github.com:Khadaassi/holbertonschool-binary_trees.git```
-
-### ➤ Execute:
-To run our Simple Shell :<br>
-
-  ```./hsh```
-
-----------
-
-## ➤ Files description:
-
-| Filename | Description | 
-| -------- | -------- |
-| [main.h]()    |     |
-| [shell.c]()    |     |
-| [_getenv.c]()    |     |
-| [builtin_functions.c]()    |     |
-| [execute.c]()    |     |
-| [free_memory.c]()    |     |
-| [get_filepath.c]()    |     |
-| [path_append.c]()    |     |
-| [print_error.c]()    |     |
-| [get_localprog.c]()    |     |
-| [split_arguments.c]()    |     |
-| [string_functions.c]()    |     |
-
-----------
-
-## ➤ For compilation: 
-
-* Compile the code for the tasks 0.New node using :<br>
-
-  ```gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 0-main.c 0-binary_tree_node.c -o 0-node```
-
-----------
-
-## ➤ Tests:
-
-Your shell should work this way in interactive mode :
-  
-```bash
-$ ./hsh
-($) /bin/ls
-hsh main.c shell.c
-($)
-($) exit
-$
-```
-
-As well as in non-interactive mode :
-
-```bash
-$ echo "/bin/ls" | ./hsh
-hsh main.c shell.c test_ls_2
-$
-$ cat test_ls_2
-/bin/ls
-/bin/ls
-$
-$ cat test_ls_2 | ./hsh
-hsh main.c shell.c test_ls_2
-hsh main.c shell.c test_ls_2
-$
-```
-
-----------
-
-### ➤ Valgrind:
-
- * to test for segmentations errors and memory leeks use :<br>
-
-    ```valgrind --tool=memcheck --leak-check=yes --track-origins=yes --show-leak-kinds=all -s ./hsh```<br>
-
-![Test valgrind]()
 
 ----------
 
@@ -196,6 +114,11 @@ AVL Tree
 Max Binary Heap
 ```bash typedef struct binary_tree_s heap_t;```
 Note: For tasks 0 to 23 (included), you have to deal with simple binary trees. They are not BSTs, thus they don’t follow any kind of rule.
+
+Print function
+To match the examples in the tasks, you are given [this function](https://github.com/hs-hq/0x1C.c)
+
+This function is used only for visualization purposes. You don’t have to push it to your repo. It may not be used during the correction
 
 ----------
 
