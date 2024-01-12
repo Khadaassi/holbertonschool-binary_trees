@@ -45,15 +45,15 @@ A tree is a hierarchical structure of abstract data, composed of nodes connected
 
 Three types of tree are commonly used:
 
-* General trees: No restrictions on the number of children per node.
-* Binary trees: Each node has at most two children.
-* Binary search trees: A specific organization of values facilitates searching.
+* <b>General trees:</b> No restrictions on the number of children per node.
+* <b>Binary trees:</b> Each node has at most two children.
+* <b>Binary search trees:</b> A specific organization of values facilitates searching.
 
 To traverse a tree (visit all nodes), three methods are used:
 
-* traversal in order: recursive visit of the left, root and right sub-trees.
-* Pre-order traversal: Recursive visit of root, left sub-tree, then right sub-tree.
-* Post-order traversal: Recursive visit of left subtree, right subtree, then root.
+* <b>Traversal in order:</b> recursive visit of the left, root and right sub-trees.
+* <b>Pre-order traversal:</b> Recursive visit of root, left sub-tree, then right sub-tree.
+* <b>Post-order traversal:</b> Recursive visit of left subtree, right subtree, then root.
 
 These traversal methods allow you to browse and print node values in an orderly fashion. 
 
